@@ -1,0 +1,22 @@
+{
+  "name": "patterns-lib-robo-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bopplu/patterns-lib-robo-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bopplu/patterns-lib-robo-test/issues"
+  },
+  "homepage": "https://github.com/bopplu/patterns-lib-robo-test#readme",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  }
+}
