@@ -1,6 +1,6 @@
 
 describe('Testing sandbox', () => {
-  it('should not click in this version', () => {
+  it('should click in this version', () => {
     //new site
     cy.visit('https://csb-jvnv6.netlify.app')
     cy.get('[data-test-id=welcome-button]')
